@@ -14,8 +14,8 @@ machine-specific paths.
 ## Install
 
 ```sh
-hermes skills tap add <owner>/hermes-weather-brief
-hermes skills install <owner>/hermes-weather-brief/skills/weather-brief
+hermes skills tap add PanLu09/hermes-weather-brief
+hermes skills install PanLu09/hermes-weather-brief/skills/weather-brief
 ```
 
 Then ask the agent, for example: `Give me a weather brief for Los Angeles.`
